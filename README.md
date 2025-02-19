@@ -20,13 +20,6 @@ This project applies **machine learning models** to predict hotel booking cancel
 - **Lasso Regression reduced features to 27 key predictors** without major accuracy loss.
 - **Threshold tuning helped optimize predictions, reducing overbooking risks**.
 
-##  Repository Structure:
-📁 hotel-cancellation-prediction/ │── 📄 README.md # Project overview, methodology, key insights
-│── 📄 hotel_cancellation_analysis.ipynb # Jupyter Notebook with full analysis
-│── 📄 hotel_bookings.csv # Dataset (if not too large)
-│── 📄 images/ # Folder containing plots & visualizations
-
-
 ##  Next Steps:
 - Try **ensemble models (Random Forest, XGBoost)** for potential improvements.
 -  Deploy the best model using **Flask or Streamlit** for real-world hotel applications.
